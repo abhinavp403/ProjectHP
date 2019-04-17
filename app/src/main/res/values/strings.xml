@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ProjectHP</string>
+    <string name="my_name">Abhinav</string>
+    <string name="login">LOGIN</string>
+    <string name="email">Email ID</string>
+    <string name="password">Password</string>
+    <string name="register">Sign Up</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="name">First Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="complete">Registration Complete!</string>
+    <string name="back">Back</string>
+    <string name="logout">Logout</string>
+    <string name="exit">Exit</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="newPassword">New Password</string>
+    <string name="confnewPassword">Confirm New Password</string>
+    <string name="enrollment">Enrollment</string>
+    <string name="about">About Us</string>
+    <string name="subject">Course Details</string>
+    <string name="trainer">Trainer Details</string>
+    <string name="student">Student Enrollment Details</string>
+    <string name="college">College</string>
+    <string name="workplace">Work Place</string>
+    <string name="experience">Experience (years)</string>
+    <string name="trainerno.">No. of Trainers</string>
+    <string name="paragraph">
+        This App is part of my HP project.\n
+        It contains a Splash Screen, Login Page, Registration Page, Forgot Password Page, a Menu Screen containing 5 option.
+        When an option is clicked, it re-directs to information containing student details, trainer details, course details, an about us page and a screen to register new students.\n
+        Firstly, a new user has to register from the login page. Only then can the user login to the menu screen.\n
+        A student can access his or her details or other student details. They can also access their trainer details, and all course details.
+        The trainer can do the same and also register new students, new trainers and new courses.
+    </string>
+    <string name="addstudent">Add Student</string>
+    <string name="addtrainer">Add Trainer</string>
+    <string name="addsubject">Add Course</string>
+    <string name="doj">Date of Joining</string>
+    <string name="plan">Plan</string>
+    <string name="semester">Semester</string>
+    <string name="course">Course</string>
+    <string name="add">Add</string>
+</resources>
